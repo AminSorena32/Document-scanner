@@ -2,9 +2,6 @@
 
 A browser-based document scanner built with **OpenCV** and **Streamlit**. Upload a photo (or snap one with your camera), and the app automatically detects the document's edges, corrects the perspective, and cleans it up into a crisp, print-ready scan — no physical scanner required.
 
-![Demo placeholder](docs/demo.gif)
-*Replace this with a screenshot or GIF of the app in action.*
-
 ---
 
 ## ✨ Features
@@ -41,9 +38,6 @@ Enable **debug mode** in the app to see each of these steps visualized side by s
 ---
 
 ## 🖼️ Debug Mode Preview
-
-![Debug mode placeholder](docs/debug-mode.png)
-*Replace this with a screenshot of the debug pipeline expander.*
 
 ---
 
